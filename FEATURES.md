@@ -22,3 +22,20 @@ The installer adds these three Flathub applications for reading and ebooks:
 3. **VSCodium** — com.vscodium.codium
 
 They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
+
+## Ten more purpose-specific preinstalled applications
+
+The setup installs these ten Flathub apps selected for reading and ebooks:
+
+1. **Calibre** — organize ebooks and convert documents (com.calibre_ebook.calibre)
+2. **GNOME Papers** — read project and reference PDFs (org.gnome.Papers)
+3. **GNOME Text Editor** — edit plain-text notes and configuration files (org.gnome.TextEditor)
+4. **GNOME Calendar** — schedule sessions, deadlines, and events (org.gnome.Calendar)
+5. **GNOME Clocks** — time work sessions and events (org.gnome.clocks)
+6. **Document Scanner** — digitize paper notes and forms (org.gnome.SimpleScan)
+7. **GNOME Contacts** — organize partner and team contacts (org.gnome.Contacts)
+8. **GNOME Calculator** — perform scientific and financial calculations (org.gnome.Calculator)
+9. **GNOME Maps** — look up places and plan routes (org.gnome.Maps)
+10. **GNOME Boxes** — test workflows in virtual machines (org.gnome.Boxes)
+
+Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.
