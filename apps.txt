@@ -20,3 +20,20 @@ org.gnome.Contacts
 org.gnome.Calculator
 org.gnome.Maps
 org.gnome.Boxes
+
+# Fifteen additional preinstalled purpose-specific applications
+org.jabref.jabref
+com.github.xournalpp.xournalpp
+org.mozilla.Thunderbird
+org.gnome.Evolution
+org.gnome.gitg
+org.geogebra.GeoGebra
+org.stellarium.Stellarium
+org.kde.digikam
+org.gnome.Shotwell
+io.dbeaver.DBeaverCommunity
+org.musescore.MuseScore
+org.librecad.librecad
+org.gnome.Weather
+org.gnome.Logs
+org.gnome.baobab
